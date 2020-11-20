@@ -191,7 +191,7 @@ Y un listado de archivos que contiene el repositorio.
 
 
 ## README
-Es el documento que da la **bienvenida** a tu projecto.
+Es el documento que da la **bienvenida** a tu proyecto.
 
 ![README en GitHub](/images/github-readme.png)
 
